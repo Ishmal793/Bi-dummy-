@@ -22,16 +22,13 @@ This is an interactive web-based data dashboard built using **Streamlit**, desig
 
 ---
 
-## 🛠️ Built With
+## 🌐 Live Dashboard
 
-- **Python**
-- **Streamlit**
-- **Pandas**
-- **Plotly Express & Graph Objects**
+👉 Try the app live: [Interactive Dashboard](https://your-dashboard-link.streamlit.app)
 
 ---
 
-## 📂 How to Run
+## 📂 How to Run Locally
 
 1. Clone the repository:
    ```bash
