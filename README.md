@@ -24,7 +24,7 @@ This is an interactive web-based data dashboard built using **Streamlit**, desig
 
 ## 🌐 Live Dashboard
 
-👉 Try the app live: [Interactive Dashboard](https://your-dashboard-link.streamlit.app)
+👉 Try the app live: [Interactive Dashboard](https://ogr3xrsreymmuqspkdtapp8.streamlit.app/)
 
 ---
 
